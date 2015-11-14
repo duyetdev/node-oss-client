@@ -142,3 +142,7 @@ client.documents.destroy('my_index', {
   values: [1, 2]
 }, function (err, res) { });
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/duyetdev/node-oss-client/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
