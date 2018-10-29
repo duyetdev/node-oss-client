@@ -22,7 +22,7 @@
     "url": "https://github.com/lemonde/node-oss-client/issues"
   },
   "dependencies": {
-    "request": "~2.27.0",
+    "request": "~2.81.0",
     "lodash": "~2.2.1"
   },
   "devDependencies": {
